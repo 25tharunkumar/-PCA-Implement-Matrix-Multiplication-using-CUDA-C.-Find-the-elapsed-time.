@@ -149,5 +149,5 @@ Elapsed Time: 0.000037 seconds
 root@MidPC:/home/student/Desktop# 106 
 ```
 ![image](https://github.com/25tharunkumar/-PCA-Implement-Matrix-Multiplication-using-CUDA-C.-Find-the-elapsed-time./assets/123470785/db6061ae-6ca8-4cd3-b003-4d7fbe02784f)
-Result:
+## Result:
 The implementation of Matrix Multiplication using GPU is done successfully.
