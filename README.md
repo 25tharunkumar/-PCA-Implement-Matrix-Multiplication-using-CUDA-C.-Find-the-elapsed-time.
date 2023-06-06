@@ -112,6 +112,7 @@ int main()
 }
 ```
 ## Output:
+```
 root@MidPC:/home/student/Desktop# nvcc first.cu
 root@MidPC:/home/student/Desktop# ./a.out
 Result Matrix:
@@ -146,3 +147,4 @@ Elapsed Time: 0.000037 seconds
                     0.00%     930ns         2     465ns     210ns     720ns  cuDeviceGet
                     0.00%     310ns         1     310ns     310ns     310ns  cuDeviceGetUuid
 root@MidPC:/home/student/Desktop# 106 
+```
