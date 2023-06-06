@@ -148,3 +148,5 @@ Elapsed Time: 0.000037 seconds
                     0.00%     310ns         1     310ns     310ns     310ns  cuDeviceGetUuid
 root@MidPC:/home/student/Desktop# 106 
 ```
+![image](https://github.com/25tharunkumar/-PCA-Implement-Matrix-Multiplication-using-CUDA-C.-Find-the-elapsed-time./assets/123470785/db6061ae-6ca8-4cd3-b003-4d7fbe02784f)
+
